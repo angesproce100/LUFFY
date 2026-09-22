@@ -55,7 +55,7 @@ LUFFY/
 - **FSDP Training**: Model loading and distributed training setup
 - **Data Processing**: Batch dimension operations and tensor reshaping
 
-## Complete TODO List
+### Complete TODO List
 
 Python TODO inventory at commit `7463fefd0f55ae2ba0b919e06527588022893495` on `dev`: **255 TODO items across 76 files**, from **233 Python files** scanned.
 
