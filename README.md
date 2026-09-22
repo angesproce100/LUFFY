@@ -61,6 +61,8 @@ Python TODO inventory at commit `7463fefd0f55ae2ba0b919e06527588022893495` on `d
 
 Each checkbox records a whole-word TODO marker, not necessarily an unimplemented feature. Repeated markers at different locations are retained; surrounding source provides context for multiline notes.
 
+Entries are ordered by file path in ascending lexicographical order, with line numbers increasing within the same file.
+
 - [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
 - [ ] **luffy/deepscaler/utils.py:47** - Add timeout configuration for API calls
